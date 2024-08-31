@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1725145289 source:c:\users\usuario\onedrive\desktop\tp1ej6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1725145305 c:\users\usuario\onedrive\desktop\tp1ej6\main.h
+	<stdio.h>
+	<stdlib.h>
+
