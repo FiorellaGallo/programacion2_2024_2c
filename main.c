@@ -1,15 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include "main.h"
-
-int division(int m, int n, float *resto){
-    if(abs(m) < abs(n)){
-        *resto = m;
-        return 0;
-    }
-    return 1 + division(m - n, n, resto);
-}
-
+#include "ejercicio4.h"
 
 int main()
 {
@@ -25,6 +16,7 @@ int main()
         fflush(stdin);
 
         if (m == 0) { printf("\nSaliste del sistema."); return 0; }
+
 
         printf("Ingrese el divisor: ");
         scanf("%d", &n);
