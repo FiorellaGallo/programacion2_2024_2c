@@ -1,16 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "main.h"
-
-void delegacion(int chinos){
-    if (chinos == 1){
-        printf("(-.-)");
-    } else {
-        printf("(-.");
-        delegacion(chinos - 1);
-        printf(".-)");
-    }
-}
+#include "ejercicio6.h"
 
 int main()
 {
