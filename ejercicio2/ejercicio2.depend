@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1725062467 source:/home/carolina/programacion 2/ejercicio2/main.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	"ejercicio2.h"
+
+1725059529 /home/carolina/programacion 2/ejercicio2/ejercicio2.h
+
+1725059537 source:/home/carolina/programacion 2/ejercicio2/ejercicio2.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"ejercicio2.h"
+
+1725570619 source:/home/fiorella/Documentos/tp-recursividad/recursividad/ejercicio2/main.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	"ejercicio2.h"
+
+1725570196 /home/fiorella/Documentos/tp-recursividad/recursividad/ejercicio2/ejercicio2.h
+
+1725570196 source:/home/fiorella/Documentos/tp-recursividad/recursividad/ejercicio2/ejercicio2.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"ejercicio2.h"
+
