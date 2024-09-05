@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1725550082 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp1\ejercicio7\ejercicio7.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ejercicio7.h"
+
+1725550082 c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp1\ejercicio7\ejercicio7.h
+	<stdio.h>
+
+1725552742 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp1\ejercicio7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ejercicio7.h"
+
