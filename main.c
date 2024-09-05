@@ -4,7 +4,7 @@
 
 int main()
 {
-    char numero[] = "111789503";
+    char numero[] = "789503";
 
     printf("Numero separado por miles: ");
     separadorMiles(numero);

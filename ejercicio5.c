@@ -7,8 +7,12 @@ void separarMiles(char *numero, int longitud) {
     if (longitud <= 3) {
         printf("%s", numero);
     } else {
-        separarMiles(numero, longitud - 3);
-        printf(",%s", numero + longitud - 3);
+        char temp[4];
+        strncpy(temp, numero, 3);
+        temp[3] = '\0';
+
+        separarMiles(numero + 3, longitud - 3);
+        printf(",%s", temp);
     }
 }
 
