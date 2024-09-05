@@ -27,3 +27,17 @@
 	<stdlib.h>
 	"ejercicio5.h"
 
+1725575718 source:/home/fiorella/Documentos/tp-recursividad/recursividad/ejercicio5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ejercicio5.h"
+
+1725575065 /home/fiorella/Documentos/tp-recursividad/recursividad/ejercicio5.h
+	<stdio.h>
+
+1725576431 source:/home/fiorella/Documentos/tp-recursividad/recursividad/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicio5.h"
+
