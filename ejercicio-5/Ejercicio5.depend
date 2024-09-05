@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1725461875 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp1\ejercicio5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicio5.h"
+
+1725460946 c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp1\ejercicio5\ejercicio5.h
+	<stdio.h>
+
+1725461981 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp1\ejercicio5\ejercicio5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ejercicio5.h"
+
+1725566687 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp1\ejercicio5\recursividad\ejercicio5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ejercicio5.h"
+
+1725460946 c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp1\ejercicio5\recursividad\ejercicio5.h
+	<stdio.h>
+
+1725471042 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp1\ejercicio5\recursividad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicio5.h"
+
+1725575718 source:/home/fiorella/Documentos/tp-recursividad/recursividad/ejercicio5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ejercicio5.h"
+
+1725575065 /home/fiorella/Documentos/tp-recursividad/recursividad/ejercicio5.h
+	<stdio.h>
+
+1725576431 source:/home/fiorella/Documentos/tp-recursividad/recursividad/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicio5.h"
+
