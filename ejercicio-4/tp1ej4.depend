@@ -1,18 +1,21 @@
 # depslib dependency file v1.0
-1725315236 source:c:\users\usuario\onedrive\desktop\tp1ej4\recursividad\main.c
+1725575780 source:c:\users\usuario\onedrive\desktop\tp1ej4\recursividad\main.c
 	<stdlib.h>
 	<stdio.h>
-	<stdbool.h>
+	<string.h>
+	<ctype.h>
 	"ejercicio4.h"
 
-1725315254 c:\users\usuario\onedrive\desktop\tp1ej4\recursividad\ejercicio4.h
-	<stdio.h>
+1725574225 c:\users\usuario\onedrive\desktop\tp1ej4\recursividad\ejercicio4.h
 	<stdlib.h>
-	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
 
-1725315246 source:c:\users\usuario\onedrive\desktop\tp1ej4\recursividad\ejercicio4.c
+1725571803 source:c:\users\usuario\onedrive\desktop\tp1ej4\recursividad\ejercicio4.c
 	<stdio.h>
 	<stdlib.h>
-	<stdbool.h>
+	<string.h>
+	<ctype.h>
 	"ejercicio4.h"
 
