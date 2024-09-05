@@ -17,3 +17,22 @@
 	<string.h>
 	"ejercicio1.h"
 
+1725567973 source:/home/fiorella/Documentos/carpetaClonada/recursividad/Ejercicio1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	"ejercicio1.h"
+
+1725567617 /home/fiorella/Documentos/carpetaClonada/recursividad/Ejercicio1/ejercicio1.h
+	<stdio.h>
+	<stdbool.h>
+
+1725567981 source:/home/fiorella/Documentos/carpetaClonada/recursividad/Ejercicio1/ejercicio1.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	"ejercicio1.h"
+
