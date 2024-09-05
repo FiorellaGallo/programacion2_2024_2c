@@ -10,7 +10,6 @@ ListaFinal *crearLista(int capacidad){
     return lista;
 };
 
-//La variable se llama "tamano" porque me toma "Ñ" como caracter especial
 void agregarSubconjuntos(int conjunto[], int tamano, ListaFinal *lista) {
     int i;
 

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1725579261 source:/home/fiorella/Documentos/tp-recursividad/recursividad/ejercicio8/ejercicio8.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"ejercicio8.h"
+
+1725579261 /home/fiorella/Documentos/tp-recursividad/recursividad/ejercicio8/ejercicio8.h
+
+1725579261 source:/home/fiorella/Documentos/tp-recursividad/recursividad/ejercicio8/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicio8.h"
+
