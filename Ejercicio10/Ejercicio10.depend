@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1725500141 source:/home/fiorella/Documentos/programacion2/Ejercicio10/ejercicio10.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"ejercicio10.h"
+
+1725498092 /home/fiorella/Documentos/programacion2/Ejercicio10/ejercicio10.h
+
+1725500093 source:/home/fiorella/Documentos/programacion2/Ejercicio10/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"ejercicio10.h"
+
