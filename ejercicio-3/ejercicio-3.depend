@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1725572251 source:/home/fiorella/Documentos/tp-recursividad/recursividad/ejercicio-3/ejercicio-3/ejercicio3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ejercicio3.h"
+
+1725572251 /home/fiorella/Documentos/tp-recursividad/recursividad/ejercicio-3/ejercicio-3/ejercicio3.h
+	<stdio.h>
+
+1725572355 source:/home/fiorella/Documentos/tp-recursividad/recursividad/ejercicio-3/ejercicio-3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ejercicio3.h"
+
