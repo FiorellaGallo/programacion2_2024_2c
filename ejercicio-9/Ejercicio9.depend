@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1724967366 source:/home/fiorella/Documentos/programacion2/Ejercicio9/ejercicio9.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<stdbool.h>
+	"ejercicio9.h"
+
+1724966852 /home/fiorella/Documentos/programacion2/Ejercicio9/ejercicio9.h
+	<stdbool.h>
+
+1725054224 source:/home/fiorella/Documentos/programacion2/Ejercicio9/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	"ejercicio9.h"
+
+1725579566 source:/home/fiorella/Documentos/tp-recursividad/recursividad/Ejercicio9/ejercicio9.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<stdbool.h>
+	"ejercicio9.h"
+
+1725579566 /home/fiorella/Documentos/tp-recursividad/recursividad/Ejercicio9/ejercicio9.h
+	<stdbool.h>
+
+1725579566 source:/home/fiorella/Documentos/tp-recursividad/recursividad/Ejercicio9/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	"ejercicio9.h"
+
