@@ -8,25 +8,34 @@
 	<stdio.h>
 	<stdlib.h>
 
-1725145289 source:c:\users\usuario\onedrive\desktop\tp1ej6\recursividad\main.c
+1725580715 source:c:\users\usuario\onedrive\desktop\tp1ej6\recursividad\main.c
 	<stdio.h>
 	<stdlib.h>
-	"main.h"
+	"ejercicio6.h"
 
 1725145305 c:\users\usuario\onedrive\desktop\tp1ej6\recursividad\main.h
 	<stdio.h>
 	<stdlib.h>
 
-1725578518 source:/home/fiorella/Documentos/tp-recursividad/recursividad/main.c
+1725381918 source:c:\users\usuario\onedrive\desktop\tp1ej6\recursividad\ejercicio6.c
 	<stdio.h>
 	<stdlib.h>
 	"ejercicio6.h"
 
-1725578518 /home/fiorella/Documentos/tp-recursividad/recursividad/ejercicio6.h
+1725381882 c:\users\usuario\onedrive\desktop\tp1ej6\recursividad\ejercicio6.h
 	<stdio.h>
 	<stdlib.h>
 
-1725578518 source:/home/fiorella/Documentos/tp-recursividad/recursividad/ejercicio6.c
+1725582753 source:/home/fiorella/Documentos/tp-recursividad/recursividad/ejercicio-6/ejercicio6.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicio6.h"
+
+1725582753 /home/fiorella/Documentos/tp-recursividad/recursividad/ejercicio-6/ejercicio6.h
+	<stdio.h>
+	<stdlib.h>
+
+1725583267 source:/home/fiorella/Documentos/tp-recursividad/recursividad/ejercicio-6/main.c
 	<stdio.h>
 	<stdlib.h>
 	"ejercicio6.h"
