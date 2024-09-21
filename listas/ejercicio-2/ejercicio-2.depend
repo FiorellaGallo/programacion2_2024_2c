@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1726367531 source:/home/fiorella/Documentos/tp-listas-entregable/listas/TADs/listas_arreglos.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	"tipo_elemento.h"
+
+1726367486 /home/fiorella/Documentos/tp-listas-entregable/listas/TADs/listas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1726068372 /home/fiorella/Documentos/tp-listas-entregable/listas/TADs/tipo_elemento.h
+
+1726367534 source:/home/fiorella/Documentos/tp-listas-entregable/listas/TADs/tipo_elemento.c
+	"tipo_elemento.h"
+	<stdlib.h>
+
+1726782093 source:/home/fiorella/Documentos/tp-listas-entregable/listas/ejercicio-2/ejercicio_2.c
+	<stdio.h>
+	<stdlib.h>
+	"../TADs/listas.h"
+	"../TADs/tipo_elemento.h"
+	<time.h>
+
